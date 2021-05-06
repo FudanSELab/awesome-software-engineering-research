@@ -16,6 +16,9 @@ ToDo....
 ## Tools
 - [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories.
 
+## Tutorials
+- [msrWS](https://github.com/dmgerman/msrWS) - Tutorials about how to mine github repository, including some pdfs.
+
 ## Contributing
 - This list requires your input for its continuous improvement.
   Read the [contribution guide](contributing.md) for instructions on how
