@@ -9,7 +9,8 @@ A curated list of software engineering research, data sets and tools. Inspired b
 
 ## Repositories
 
-ToDo....
+### Stack Overflow
+  - [AnswerBot](https://github.com/XBWer/AnswerBot.git), Replication package of the paper "AnswerBot: An Answer Summary Generation Tool Based on Stack Overflow", ESEC/FSE 2019, [Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5491&context=sis_research)
 
 ## Data Sets
 - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
