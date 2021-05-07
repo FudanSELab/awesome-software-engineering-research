@@ -20,6 +20,7 @@ A curated list of software engineering research, data sets and tools. Inspired b
 
 ## Data Sets
 - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
+- [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - A benchmark dataset and open challenge for code intelligence. It includes 14 datasets for 10 diversified code intelligence tasks covering the following scenarios: 1) code-code (clone detection, defect detection, cloze test, code completion, code repair, and code-to-code translation); 2) text-code (natural language code search, text-to-code generation); 3) code-text (code summarization); 4) text-text (documentation translation). 
 
 ## Tools
 - [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories.
