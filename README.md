@@ -21,7 +21,9 @@ A curated list of software engineering research, data sets and tools. Inspired b
 ## Data Sets
 - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
 - [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - A benchmark dataset and open challenge for code intelligence. It includes 14 datasets for 10 diversified code intelligence tasks covering the following scenarios: 1) code-code (clone detection, defect detection, cloze test, code completion, code repair, and code-to-code translation); 2) text-code (natural language code search, text-to-code generation); 3) code-text (code summarization); 4) text-text (documentation translation). 
-- [Java-Annotation-Study](https://github.com/zhongxingyu/Java-Annotation-Study), Java-Annotation-Study, a large study on java annotation on code with annotated data set.
+- [Java-Annotation-Study](https://github.com/zhongxingyu/Java-Annotation-Study), This repository contains our code for studying Java annotation and its evolution, the collected large scale data about evolution of annotations in three years for each project, and our manual analysis of the characteristics of annotation evolution.
+- [CodeNet](https://github.com/IBM/Project_CodeNet), The goal of Project CodeNet is to provide the AI-for-Code research community with a large scale, diverse, and high quality curated dataset to drive innovation in AI techniques.
+
 ## Tools
 - [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories.
 - [GrimoireLab](https://github.com/chaoss/grimoirelab) - Toolset for software development analytics. By far the best set of tools to mine software repositories.
