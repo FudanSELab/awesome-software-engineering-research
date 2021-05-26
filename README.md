@@ -21,6 +21,9 @@ A curated list of software engineering research, data sets and tools. Inspired b
   - [debug-method-name-2019-ICSE](https://github.com/SerVal-DTF/debug-method-name), A tool of spotting and refactoring inconsistent method names learned from real-world code bases. This work will be presented at ICSE 2019. This reincluding data with .
   - [DeepName-2021-ICSE](https://github.com/deepname2021icse/DeepName-2021-ICSE), This repository contains the code for A Context-based Automated Approach for Method Name Consistency Checking and Suggestion
 
+### Bug Localization
+  - [DeepLocalize](https://github.com/Wardat-ISU/DeepLocalize), DeepLocalize: Fault Localization for Deep Neural Networks. This repo includes a bechmark.
+
 
 ## Data Sets
 - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
