@@ -24,6 +24,8 @@ A curated list of software engineering research, data sets and tools. Inspired b
 ### Bug Localization
   - [DeepLocalize](https://github.com/Wardat-ISU/DeepLocalize), DeepLocalize: Fault Localization for Deep Neural Networks. This repo includes a bechmark.
 
+### Query Refinement/Expansion
+  - [Chatbot4QR](https://osf.io/npwg4/?view_only=560f6453f31a439db469d7fe4c82dbec). Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval. [paper](https://ieeexplore.ieee.org/document/9165927). 
 
 ## Data Sets
 - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
