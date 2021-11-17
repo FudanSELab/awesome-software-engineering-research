@@ -19,7 +19,7 @@ A curated list of software engineering research, data sets and tools. Inspired b
 
 ### API Misuse
    - [MUBench](https://github.com/stg-tud/MUBench), MUBench (pronounced "Moo Bench") is an automated benchmark for API-misuse detectors, based on the MUBench benchmarking dataset. If you encounter any problems using MUBench, please report them to us. If you have any questions, please contact Sven Amann.
-
+   - [CryptoAPI-Bench](https://github.com/CryptoGuardOSS/cryptoapi-bench): A Comprehensive Benchmark on Java Cryptographic API Misuses
 
 ### Method Name Generation
   - [debug-method-name-2019-ICSE](https://github.com/SerVal-DTF/debug-method-name), A tool of spotting and refactoring inconsistent method names learned from real-world code bases. This work will be presented at ICSE 2019. This reincluding data with .
