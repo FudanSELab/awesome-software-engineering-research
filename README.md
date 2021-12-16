@@ -73,6 +73,9 @@ Collecting a list of data sets, benchmarks for different tasks.
 ## Tutorials
 - [msrWS](https://github.com/dmgerman/msrWS) - Tutorials about how to mine github repository, including some pdfs.
 
+## Other Resource Lists
+- [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code), Cool links & research papers related to Machine Learning applied to source code (MLonCode)
+
 ## Contributing
 - This list requires your input for its continuous improvement.
   Read the [contribution guide](contributing.md) for instructions on how
