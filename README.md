@@ -37,6 +37,8 @@ Collecting a list of papers with code implementations, which could be used as ba
 
 ## Data Sets
 Collecting a list of data sets, benchmarks for different tasks.
+### Microservice System
+ - [Train Ticket：A Benchmark Microservice System](https://github.com/FudanSELab/train-ticket). The project is a train ticket booking system based on microservice architecture which contains 41 microservices. This project is maintained by the CodeWidom team of Fudan University.
 
 ### Code-Related Task Benchmark
   - [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - A benchmark dataset and open challenge for code intelligence. It includes 14 datasets for 10 diversified code intelligence tasks covering the following scenarios: 1) code-code (clone detection, defect detection, cloze test, code completion, code repair, and code-to-code translation); 2) text-code (natural language code search, text-to-code generation); 3) code-text (code summarization); 4) text-text (documentation translation). 
