@@ -41,6 +41,11 @@ Collecting a list of data sets, benchmarks for different tasks.
 ### Microservice System
  - [Train Ticket：A Benchmark Microservice System](https://github.com/FudanSELab/train-ticket). The project is a train ticket booking system based on microservice architecture which contains 41 microservices. This project is maintained by the CodeWidom team of Fudan University.
 
+### NL-based Code Search
+  - [facebook Neural-Code-Search-Evaluation-Dataset](https://github.com/facebookresearch/Neural-Code-Search-Evaluation-Dataset),Code Search Dataset from FaceBook: H. Li, S. Kim, and S. Chandra, “Neural code search evaluation dataset,” ArXiv, vol. abs/1908.09804, 2019
+  - [codesearchnet](https://github.com/github/codesearchnet), Code Search Dataset from Github & Microsoft: H. Husain, H.-H. Wu, T. Gazit, M. Allamanis, and M. Brockschmidt, “Codesearchnet challenge: Evaluating the state of semantic code search,” ArXiv, vol. abs/1909.09436, 2019, github/codesearchnet.
+  - [CosBench](https://github.com/BASE-LAB-SJTU/CosBench), 52 queries and corresponding answers from 4,199,769 java snippets.
+
 ### Code-Related Task Benchmark
   - [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - A benchmark dataset and open challenge for code intelligence. It includes 14 datasets for 10 diversified code intelligence tasks covering the following scenarios: 1) code-code (clone detection, defect detection, cloze test, code completion, code repair, and code-to-code translation); 2) text-code (natural language code search, text-to-code generation); 3) code-text (code summarization); 4) text-text (documentation translation). 
   - [Project CodeNet](https://github.com/IBM/Project_CodeNet), The goal of Project CodeNet is to provide the AI-for-Code research community with a large scale, diverse, and high quality curated dataset to drive innovation in AI techniques. Project CodeNet is a large scale dataset with approximately 14 million code samples, each of which is an intended solution to one of 4000 coding problems. Project CodeNet aims to do for AI for Code what ImageNet did for computer vision.
