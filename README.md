@@ -48,6 +48,11 @@ Collecting a list of data sets, benchmarks for different tasks.
   - [codesearchnet](https://github.com/github/codesearchnet), Code Search Dataset from Github & Microsoft: H. Husain, H.-H. Wu, T. Gazit, M. Allamanis, and M. Brockschmidt, “Codesearchnet challenge: Evaluating the state of semantic code search,” ArXiv, vol. abs/1909.09436, 2019, github/codesearchnet.
   - [CosBench](https://github.com/BASE-LAB-SJTU/CosBench), 52 queries and corresponding answers from 4,199,769 java snippets.
 
+### API Usage Pattern Recommendation
+  - [FOCUS](https://github.com/crossminer/FOCUS/tree/ICSE19-artifact-evaluation), FOCUS is a context-aware collaborative-filtering system that exploits cross relationships among OSS projects to suggest the inclusion of additional API invocations and concrete API usage patterns. Paper: "FOCUS: A Recommender System for Mining API Function Calls and Usage Patterns".
+
+Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas Degueule, and Massimiliano Di Penta
+
 ### Code-Related Task Benchmark
   - [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - A benchmark dataset and open challenge for code intelligence. It includes 14 datasets for 10 diversified code intelligence tasks covering the following scenarios: 1) code-code (clone detection, defect detection, cloze test, code completion, code repair, and code-to-code translation); 2) text-code (natural language code search, text-to-code generation); 3) code-text (code summarization); 4) text-text (documentation translation). 
   - [Project CodeNet](https://github.com/IBM/Project_CodeNet), The goal of Project CodeNet is to provide the AI-for-Code research community with a large scale, diverse, and high quality curated dataset to drive innovation in AI techniques. Project CodeNet is a large scale dataset with approximately 14 million code samples, each of which is an intended solution to one of 4000 coding problems. Project CodeNet aims to do for AI for Code what ImageNet did for computer vision.
