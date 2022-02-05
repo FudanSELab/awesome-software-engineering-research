@@ -31,7 +31,9 @@ Collecting a list of papers with code implementations, which could be used as ba
   - [debug-method-name-2019-ICSE](https://github.com/SerVal-DTF/debug-method-name), A tool of spotting and refactoring inconsistent method names learned from real-world code bases. This work will be presented at ICSE 2019. This reincluding data with .
   - [DeepName-2021-ICSE](https://github.com/deepname2021icse/DeepName-2021-ICSE), This repository contains the code and dataset for A Context-based Automated Approach for Method Name Consistency Checking and Suggestion.
 
-
+### Documentation Bad Smell
+  - [DocSmell Benchmark](https://github.com/disa-lab/SANER2021-DocSmell)，benchmark dataset of 1000 documentations with these 5 types of smells.
+  
 ### Query Refinement/Expansion
   - [Chatbot4QR](https://osf.io/npwg4/?view_only=560f6453f31a439db469d7fe4c82dbec). Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval. [paper](https://ieeexplore.ieee.org/document/9165927). 
 
