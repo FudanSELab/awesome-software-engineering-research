@@ -77,6 +77,12 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
 ###  Annotation Recommendation 
   - [Java-Annotation-Study](https://github.com/zhongxingyu/Java-Annotation-Study), This repository contains our code for studying Java annotation and its evolution, the collected large scale data about evolution of annotations in three years for each project, and our manual analysis of the characteristics of annotation evolution.
 
+### Bug Fix
+  - [TSSB3M](https://github.com/cedricrupb/TSSB3M), including three dataset for python code. 
+    - TSSB-3M: A dataset of over 3 million isolated single statement bug fixes. Each bug fix is related to a commit in a public Python that does not change more than a single statement.
+    - SSB-9M: A dataset of over 9 million single statement bug fixes. Each fix modifies at least a single statement to fix a bug. However, the related code changes might incorporate changes to other files.
+    - SSC-28M: A dataset of over 28 million general single statement changes. We are releasing this dataset with the intention to faciliate research in software evoluation. Therefore, a code change might not necessarily relate to a bug fix.
+
 ### Others
   - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
   - [AwesomeList](https://github.com/lockys/Awesome.json), awesome lists data in json format.
@@ -86,6 +92,10 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
   
 - [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories.
 - [GrimoireLab](https://github.com/chaoss/grimoirelab) - Toolset for software development analytics. By far the best set of tools to mine software repositories.
+
+### Code Analysis
+ - [code_diff](https://github.com/cedricrupb/code_diff), Fast AST based code differencing in Python
+ - [code_tokenize](https://github.com/cedricrupb/code_tokenize), Fast tokenization and structural analysis of any programming language
 
 ## Tutorials
 - [msrWS](https://github.com/dmgerman/msrWS) - Tutorials about how to mine github repository, including some pdfs.
