@@ -40,6 +40,7 @@ Collecting a list of papers with code implementations, which could be used as ba
 
 ## Data Sets
 Collecting a list of data sets, benchmarks for different tasks.
+
 ### Microservice System
  - [Train Ticket：A Benchmark Microservice System](https://github.com/FudanSELab/train-ticket). The project is a train ticket booking system based on microservice architecture which contains 41 microservices. This project is maintained by the CodeWidom team of Fudan University.
 
@@ -88,6 +89,7 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
 ### Others
   - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
   - [AwesomeList](https://github.com/lockys/Awesome.json), awesome lists data in json format.
+  - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ## Tools
   Tools that could be used in SE research
@@ -108,6 +110,7 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
   - [SE4AI Course](https://github.com/ckaestne/seai)
   - [SE4AI Papers](https://github.com/ckaestne/seaibib)
   - [ML4Code](https://ml4code.github.io/papers.html)
+  - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 
 ## Contributing
