@@ -90,7 +90,8 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
   - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
   - [AwesomeList](https://github.com/lockys/Awesome.json), awesome lists data in json format.
   - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-
+  - [huggingface dataset](https://github.com/huggingface/datasets/tree/master/datasets)
+  
 ## Tools
   Tools that could be used in SE research
   
