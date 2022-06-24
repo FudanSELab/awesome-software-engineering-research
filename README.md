@@ -118,6 +118,7 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
 
 ## Other Resource Lists
 - [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code), Cool links & research papers related to Machine Learning applied to source code (MLonCode)
+- [CUHK-ARISE/ml4code-dataset](https://github.com/CUHK-ARISE/ml4code-dataset), a collection of datasets for machine learning for big code.
 - SE4I
   - [SE4AI Course](https://github.com/ckaestne/seai)
   - [SE4AI Papers](https://github.com/ckaestne/seaibib)
