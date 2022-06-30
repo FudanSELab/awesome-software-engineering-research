@@ -66,6 +66,11 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
 ### Bug Localization
   - [EMSE Bug Location Data Set](https://seers.utdallas.edu/projects/emse-query-reformulation/#), from paper "Using Bug Descriptions to Reformulate Queries during Text-Retrieval-based Bug Localization" by Oscar Chaparro, Juan Manuel Florez, Andrian Marcus.
   - [DeepLocalize](https://github.com/Wardat-ISU/DeepLocalize), DeepLocalize: Fault Localization for Deep Neural Networks. This repo includes a bechmark.
+  - [TSSB-3M](https://github.com/cedricrupb/TSSB3M), mining tool and large-scale datasets of single statement bug fixes in Python.
+     - Paper:  TSSB-3M: Mining single statement bugs at massive scale
+     - TSSB-3M: A dataset of over 3 million isolated single statement bug fixes. Each bug fix is related to a commit in a public Python that does not change more than a single statement.
+     - SSB-9M: A dataset of over 9 million single statement bug fixes. Each fix modifies at least a single statement to fix a bug. However, the related code changes might incorporate changes to other files.
+     - SSC-28M: A dataset of over 28 million general single statement changes. We are releasing this dataset with the intention to faciliate research in software evolution. Therefore, a code change might not necessarily relate to a bug fix.
 
 ### API Misuse
    - [MUBench](https://github.com/stg-tud/MUBench), MUBench (pronounced "Moo Bench") is an automated benchmark for API-misuse detectors, based on the MUBench benchmarking dataset. If you encounter any problems using MUBench, please report them to us. If you have any questions, please contact Sven Amann.
