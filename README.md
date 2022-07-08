@@ -99,6 +99,11 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
     - TSSB-3M: A dataset of over 3 million isolated single statement bug fixes. Each bug fix is related to a commit in a public Python that does not change more than a single statement.
     - SSB-9M: A dataset of over 9 million single statement bug fixes. Each fix modifies at least a single statement to fix a bug. However, the related code changes might incorporate changes to other files.
     - SSC-28M: A dataset of over 28 million general single statement changes. We are releasing this dataset with the intention to faciliate research in software evoluation. Therefore, a code change might not necessarily relate to a bug fix.
+    - [nbfbaselines](https://github.com/cedricrupb/nbfbaselines), Neural baselines for finding and fixing single token bugs in Python, [paper](https://arxiv.org/pdf/2207.00301.pdf), "Can we learn from developer mistakes? Learning to localize and repair real bugs from real bug fixes".
+
+
+
+
 ### Code Diff
   - [Code Diff Datasets](https://github.com/GumTreeDiff/datasets), A collection of diff datasets. It contains: Defects4J, BugsInPy, and unparsable.
 
