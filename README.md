@@ -62,7 +62,10 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
 ### Code-Related Task Benchmark
   - [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - A benchmark dataset and open challenge for code intelligence. It includes 14 datasets for 10 diversified code intelligence tasks covering the following scenarios: 1) code-code (clone detection, defect detection, cloze test, code completion, code repair, and code-to-code translation); 2) text-code (natural language code search, text-to-code generation); 3) code-text (code summarization); 4) text-text (documentation translation). 
   - [Project CodeNet](https://github.com/IBM/Project_CodeNet), The goal of Project CodeNet is to provide the AI-for-Code research community with a large scale, diverse, and high quality curated dataset to drive innovation in AI techniques. Project CodeNet is a large scale dataset with approximately 14 million code samples, each of which is an intended solution to one of 4000 coding problems. Project CodeNet aims to do for AI for Code what ImageNet did for computer vision.
-  - 
+### Library-Oriented Code Generation
+   - [PyCodeGPT](https://github.com/microsoft/PyCodeGPT), from paper [CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation
+](https://arxiv.org/abs/2206.06888). Providing two benchmark: PandasEval and NumpyEval.
+
 ### Bug Localization
   - [EMSE Bug Location Data Set](https://seers.utdallas.edu/projects/emse-query-reformulation/#), from paper "Using Bug Descriptions to Reformulate Queries during Text-Retrieval-based Bug Localization" by Oscar Chaparro, Juan Manuel Florez, Andrian Marcus.
   - [DeepLocalize](https://github.com/Wardat-ISU/DeepLocalize), DeepLocalize: Fault Localization for Deep Neural Networks. This repo includes a bechmark.
