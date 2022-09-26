@@ -6,6 +6,7 @@ A curated list of software engineering research, data sets and tools. Inspired b
   - [Stack Overflow](#stack-overflow)
   - [API Recommendation](#api-recommendation)
   - [Method Name Generation](#method-name-generation)
+  - [Documentation Bad Smell](#documentation-bad-smell)
   - [Query Refinement/Expansion](#query-refinement/expansion)
   
 - [Data Sets](#data-sets)
@@ -113,8 +114,6 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
 ### Others
   - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
   - [AwesomeList](https://github.com/lockys/Awesome.json), awesome lists data in json format.
-  - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-  - [huggingface dataset](https://github.com/huggingface/datasets/tree/master/datasets)
   
 ## Tools
   Tools that could be used in SE research
@@ -137,7 +136,10 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
   - [SE4AI Papers](https://github.com/ckaestne/seaibib)
   - [ML4Code](https://ml4code.github.io/papers.html)
   - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+  - [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+- [huggingface dataset](https://github.com/huggingface/datasets/tree/master/datasets)
 
+  
 
 ## Contributing
 - This list requires your input for its continuous improvement.
