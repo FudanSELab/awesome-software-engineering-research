@@ -138,7 +138,9 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
   - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
   - [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [huggingface dataset](https://github.com/huggingface/datasets/tree/master/datasets)
-
+- Papers using Stack Overflow data
+  - [academic-papers-using-stack-exchange-data](https://meta.stackexchange.com/questions/134495/academic-papers-using-stack-exchange-data)
+  - [Has-there-been-any-academic-research-using-Stack-Overflow-or-Stack-Exchange](https://www.quora.com/Has-there-been-any-academic-research-using-Stack-Overflow-or-Stack-Exchange+)
   
 
 ## Contributing
