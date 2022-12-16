@@ -140,7 +140,7 @@ Authors: Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Lina Ochoa, Thomas D
 - [huggingface dataset](https://github.com/huggingface/datasets/tree/master/datasets)
 - Papers using Stack Overflow data
   - [academic-papers-using-stack-exchange-data](https://meta.stackexchange.com/questions/134495/academic-papers-using-stack-exchange-data)
-  - [Has-there-been-any-academic-research-using-Stack-Overflow-or-Stack-Exchange](https://www.quora.com/Has-there-been-any-academic-research-using-Stack-Overflow-or-Stack-Exchange+)
+  - [Has-there-been-any-academic-research-using-Stack-Overflow-or-Stack-Exchange](https://www.quora.com/Has-there-been-any-academic-research-using-Stack-Overflow-or-Stack-Exchange)
 - [Open Research Datasets in Software Engineering](http://www.cc.uah.es/drg/c/RHH_RAISE12_Repos.html)  
 
 ## Contributing
